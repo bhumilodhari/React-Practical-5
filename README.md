@@ -1,5 +1,5 @@
-# React-Practical3
-  Created React dummy project named “Todo-react-app”.
+# React-Practical5
+  Created React dummy project named “user-list-app”.
 
 # Output:
   ![Screenshot from 2022-03-24 16-22-07](https://user-images.githubusercontent.com/97098100/159902686-87861bee-408b-440e-98f1-eb9176d01f3b.png)
